@@ -1,0 +1,10 @@
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\bin\Debug\War_Hawley.exe.config
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\bin\Debug\War_Hawley.exe
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\bin\Debug\War_Hawley.pdb
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.csprojAssemblyReference.cache
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.WarForm.resources
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.Properties.Resources.resources
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.csproj.GenerateResource.cache
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.exe
+\\et-fileserver\students\2025\lillianhawley25\Desktop\Developing_Desktop_Aplications\War_Hawley\obj\Debug\War_Hawley.pdb
